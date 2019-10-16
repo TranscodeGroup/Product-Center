@@ -9,7 +9,7 @@
 ## www.distargps.com
 
 ```text
-  Last version v20190807
+  Last version v20191015
 ```
 
 
